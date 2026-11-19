@@ -1,0 +1,14 @@
+README.md
+  h_befffe6f853a53 1-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f098a75b99f10af3ca0ef70e8034f19692c3ba4d",
+  "prompts": {},
+  "humans": {
+    "h_befffe6f853a53": {
+      "author": "Aditya Jain <aditya.jain@coupa.com>"
+    }
+  }
+}
